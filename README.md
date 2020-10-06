@@ -1,6 +1,6 @@
 # Computer Methods in Dynamics
 
-This repositor contains Jupyter notebooks to experiments with some basics dynamic simulation. You can see
+This repository contains Jupyter notebooks to experiments with some basics dynamic simulation. You can see
 the read-only versions directly in GitHub or you can go to Jupyter [NBViewer](https://nbviewer.jupyter.org/) where you can render (read-only)
 notebooks. 
 
