@@ -12,14 +12,14 @@ Below are links directly to NBVievew to simplify you live. Just be paitent, beca
 
 * [Outline](https://nbviewer.jupyter.org/github/zagnnoqan/computermethodsindynamics/blob/main/10_Outline.ipynb)
 
-* [Mass Effect] (https://nbviewer.jupyter.org/github/St4nin/computermethodsindynamics/blob/main/10_00_MassEffect.ipynb)
+* [Mass Effect](https://nbviewer.jupyter.org/github/St4nin/computermethodsindynamics/blob/main/10_00_MassEffect.ipynb)
 
-* [Vibrations] (https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_01_BuzeneKmitani.ipynb)
+* [Vibrations](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_01_BuzeneKmitani.ipynb)
 
-* [Amplitude-frequency characteristics] (https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_02_AFCharakteristika.ipynb) 
+* [Amplitude-frequency characteristics](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_02_AFCharakteristika.ipynb) 
 
-* [Free Fall] (https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_03_FreeFall.ipynb)
+* [Free Fall](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_03_FreeFall.ipynb)
 
-* [Mountain Car] (https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_05_MountainCar.ipynb)
+* [Mountain Car](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_05_MountainCar.ipynb)
 
-* [The Fall] (https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_06_TheFall.ipynb)
+* [The Fall](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_06_TheFall.ipynb)
