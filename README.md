@@ -4,7 +4,7 @@ This repositor contains Jupyter notebooks to experiments with some basics dynami
 the read-only versions directly in GitHub or you can go to Jupyter [NBViewer](https://nbviewer.jupyter.org/) where you can render (read-only)
 notebooks. 
 
-Please note, that if you would like to play with and execute those scripts, you need to install Python3 and Jupyter localy (preffered way) or you can use (with limited results) online Jupyter.org web sites. 
+Please note, that if you would like to play with and execute those scripts, you need to install [Python3](https://www.python.org/) and [Jupyter](https://jupyter.org/) localy (preffered way) or you can use (with limited results) Jupyter online web sites. 
 
 Below are links directly to NBViewer to simplify you live. Just be patient, because it takes some time to render the output and sometimes the NBViewer fails (out of my control).
 
