@@ -8,18 +8,24 @@ Please note, that if you would like to play with and execute those scripts, you 
 
 Below are links directly to NBViewer to simplify you live. Just be patient, because it takes some time to render the output and sometimes the NBViewer fails (out of my control).
 
-## Links to see the notebooks directly in NBViewer
+## GitHub direct links
 
-* [Outline](https://nbviewer.jupyter.org/github/zagnnoqan/computermethodsindynamics/blob/main/10_Outline.ipynb)
+* [Outline](https://github.com/St4nin/computermethodsindynamics/blob/main/10_Outline.ipynb)
+
+* [Mass Effect](https://github.com/St4nin/computermethodsindynamics/blob/main/10_00_MassEffect.ipynb)
+
+* [Vibrations](https://github.com//St4nin/computermethodsindynamics/blob/main/10_01_BuzeneKmitani.ipynb)
+
+* [Amplitude-frequency characteristics](https://github.com/St4nin/computermethodsindynamics/blob/main/10_02_AFCharakteristika.ipynb) 
+
+* [Free Fall](https://github.com/St4nin/computermethodsindynamics/blob/main/10_03_FreeFall.ipynb)
+
+* [Mountain Car](https://github.com/St4nin/computermethodsindynamics/blob/main/10_05_MountainCar.ipynb)
+
+* [The Fall](https://github.com/St4nin/computermethodsindynamics/blob/main/10_06_TheFall.ipynb)
+
+## Sample links to see the notebooks directly in NBViewer
+
+* [Outline](https://nbviewer.jupyter.org/github/St4nin/computermethodsindynamics/blob/main/10_Outline.ipynb)
 
 * [Mass Effect](https://nbviewer.jupyter.org/github/St4nin/computermethodsindynamics/blob/main/10_00_MassEffect.ipynb)
-
-* [Vibrations](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_01_BuzeneKmitani.ipynb)
-
-* [Amplitude-frequency characteristics](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_02_AFCharakteristika.ipynb) 
-
-* [Free Fall](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_03_FreeFall.ipynb)
-
-* [Mountain Car](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_05_MountainCar.ipynb)
-
-* [The Fall](https://nbviewer.jupyter.org/github.com/St4nin/computermethodsindynamics/blob/main/10_06_TheFall.ipynb)
