@@ -1,14 +1,14 @@
 # Computer Methods in Dynamics
 
-This repositor contains Jupyter notebooks to experiments with some basics dynamic simulatioon. You can see
-the read-only versions directly in GitHub with or you can go to Jupyter NBViewer where you can render (read-only)
+This repositor contains Jupyter notebooks to experiments with some basics dynamic simulation. You can see
+the read-only versions directly in GitHub or you can go to Jupyter [NBViewer](https://nbviewer.jupyter.org/) where you can render (read-only)
 notebooks. 
 
-Please note, that if you would like to play with and execute those scripts, you need to install Python3 and Jupyter localy (preffered way) or you can use (with limited reasults) online Jupyter.org web sites. 
+Please note, that if you would like to play with and execute those scripts, you need to install Python3 and Jupyter localy (preffered way) or you can use (with limited results) online Jupyter.org web sites. 
 
-Below are links directly to NBVievew to simplify you live. Just be paitent, because it take some times to render the output and sometimes the NBViewer fails (out of my control).
+Below are links directly to NBViewer to simplify you live. Just be patient, because it takes some time to render the output and sometimes the NBViewer fails (out of my control).
 
-## Links to see the notebooks directly in [NBViewer](https://nbviewer.jupyter.org/)
+## Links to see the notebooks directly in NBViewer
 
 * [Outline](https://nbviewer.jupyter.org/github/zagnnoqan/computermethodsindynamics/blob/main/10_Outline.ipynb)
 
