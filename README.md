@@ -6,7 +6,7 @@ notebooks.
 
 Please note, that if you would like to play with and execute those scripts, you need to install [Python3](https://www.python.org/) and [Jupyter](https://jupyter.org/) localy (preffered way) or you can use (with limited results) Jupyter online web sites. 
 
-Below are links directly to GitHub and NBViewer to simplify you live. Just be patient, because it takes some time to render the output and sometimes the NBViewer fails (out of my control).
+Below are links directly to GitHub and NBViewer to simplify your live. Just be patient, because it takes some time to render the output and sometimes the NBViewer fails (out of my control).
 
 ## GitHub direct links
 
