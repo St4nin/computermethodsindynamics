@@ -24,6 +24,8 @@ Below are links directly to GitHub and NBViewer to simplify your live. Just be p
 
 * [The Fall](https://github.com/St4nin/computermethodsindynamics/blob/main/10_06_TheFall.ipynb)
 
+* [ODE solver](https://github.com/St4nin/computermethodsindynamics/blob/main/ODE_integration_example.ipynb)
+
 ## Sample links to see the notebooks directly in NBViewer
 
 * [Outline](https://nbviewer.jupyter.org/github/St4nin/computermethodsindynamics/blob/main/10_Outline.ipynb)
